@@ -23,7 +23,7 @@ body {
 }
 .heading-content {
   position: absolute;
-  top: 40%;
+  top: 80%; /*40%*/
   width: 100%;
   max-width: 100%;
 }
@@ -41,7 +41,7 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 .heading-content p {
-  font-size: 1em;
+  font-size: 2em;
   text-transform: uppercase;
   font-weight: lighter;
   color: #ccc;
